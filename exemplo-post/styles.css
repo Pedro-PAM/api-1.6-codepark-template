@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+
+body{
+    width:100vw;
+    display:flex;  
+    flex-direction: column;
+    background-color: #a564e2;
+    
+}
+
+label{
+    margin-left:40%;
+}
+
+
+
+input,textarea,button{
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;    
+    align-items: center;
+    margin-left:40%;
+    
+}
